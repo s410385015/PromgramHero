@@ -1,0 +1,13 @@
+c:\users\nako\documents\visual studio 2013\Projects\ProgrammingHero\ProgrammingHero\bin\Debug\ProgrammingHero.exe.config
+c:\users\nako\documents\visual studio 2013\Projects\ProgrammingHero\ProgrammingHero\obj\Debug\ProgrammingHero.csprojResolveAssemblyReference.cache
+c:\users\nako\documents\visual studio 2013\Projects\ProgrammingHero\ProgrammingHero\obj\Debug\ProgrammingHero.CreateHero.resources
+c:\users\nako\documents\visual studio 2013\Projects\ProgrammingHero\ProgrammingHero\obj\Debug\ProgrammingHero.Properties.Resources.resources
+c:\users\nako\documents\visual studio 2013\Projects\ProgrammingHero\ProgrammingHero\obj\Debug\ProgrammingHero.csproj.GenerateResource.Cache
+c:\users\nako\documents\visual studio 2013\Projects\ProgrammingHero\ProgrammingHero\bin\Debug\ProgrammingHero.exe
+c:\users\nako\documents\visual studio 2013\Projects\ProgrammingHero\ProgrammingHero\bin\Debug\ProgrammingHero.pdb
+c:\users\nako\documents\visual studio 2013\Projects\ProgrammingHero\ProgrammingHero\obj\Debug\ProgrammingHero.exe
+c:\users\nako\documents\visual studio 2013\Projects\ProgrammingHero\ProgrammingHero\obj\Debug\ProgrammingHero.pdb
+c:\users\nako\documents\visual studio 2013\Projects\ProgrammingHero\ProgrammingHero\obj\Debug\ProgrammingHero.MainScreen.resources
+c:\users\nako\documents\visual studio 2013\Projects\ProgrammingHero\ProgrammingHero\obj\Debug\ProgrammingHero.Request.resources
+C:\Users\Nako\Documents\Visual Studio 2013\Projects\ProgrammingHero\ProgrammingHero\obj\Debug\ProgrammingHero.LevelUP.resources
+C:\Users\Nako\Documents\Visual Studio 2013\Projects\ProgrammingHero\ProgrammingHero\obj\Debug\ProgrammingHero.Menu.resources
